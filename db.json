@@ -1,4 +1,18 @@
 {
+  "auth":[
+    {
+    "id":1,
+      "userName": "ijul",
+      "password": "123456",
+      "credential": "user",
+    },
+    {
+      "id":2,
+      "userName":"admin",
+      "password": "123456",
+      "credentials": "admin"
+    }
+  ],
   "film": [
     {
       "id": 1,
@@ -42,7 +56,6 @@
         "tahun":"2016",
         "penonton":"3.052.657",
         "poster":"https://upload.wikimedia.org/wikipedia/en/5/59/My_Stupid_Boos_Poster.jpg"},
-    
     {
         "id":8,
         "judul":"Ayat-ayat Cinta 2",
